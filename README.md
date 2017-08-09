@@ -23,8 +23,20 @@ Here are a couple of example lines of input from the `anatomical_systems.txt` fi
     }
   ],
   "tissues": {
-    "UBERON_0000007": "pituitary gland",
-    "UBERON_0000016": "endocrine pancreas"
+    "UBERON_0000007": {
+      "key": "UBERON_0000007",
+      "label": "pituitary gland",
+      "anatomical_systems": [
+        "UBERON_0000949"
+      ]
+    },
+    "UBERON_0000016": {
+      "key": "UBERON_0000016",
+      "label": "endocrine pancreas",
+      "anatomical_systems": [
+        "UBERON_0000949"
+      ]
+    }
   }
 }
 ```
