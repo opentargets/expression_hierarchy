@@ -17,7 +17,7 @@ def download_files():
   urllib.urlretrieve(ORGANS_URL, ORGANS_FILE)
 
 
-def parse_tsv(structure_file, tissues, parents):
+def parse_tsv(structure_file, tissues, parents, parent_type):
   with open(structure_file, 'r') as tsv:
     is_first_line = True
     for line in csv.reader(tsv, delimiter="\t"):
@@ -31,7 +31,10 @@ def parse_tsv(structure_file, tissues, parents):
 
       # add tissue (if not yet present)
       if tissue_id not in tissues.keys():
-        tissues[tissue_id] = tissue_name
+        tissues[tissue_id] = {
+          "key": tissue_id,
+          "label": tissue_name,
+        }
       
       # add parent (if not yet present)
       if parent_id not in parents.keys():
@@ -40,9 +43,16 @@ def parse_tsv(structure_file, tissues, parents):
           "label": parent_name,
           "children": []
         }
+
+      # add parent to tissue (if not yet present)
+      if not parent_type in tissues[tissue_id]:
+        tissues[tissue_id][parent_type] = []
       
       # add the tissue to the parent
       parents[parent_id]["children"].append(tissue_id)
+
+      # add the parent to the tissue
+      tissues[tissue_id][parent_type].append(parent_id)
 
 
 def write_json(state):
@@ -57,14 +67,14 @@ def tsv2json():
   organs = {}
 
   # input
-  parse_tsv(ANATOMICAL_SYSTEMS_FILE, tissues, anatomical_systems)
-  parse_tsv(ORGANS_FILE, tissues, organs)
+  parse_tsv(ANATOMICAL_SYSTEMS_FILE, tissues, anatomical_systems, 'anatomical_systems')
+  parse_tsv(ORGANS_FILE, tissues, organs, 'organs')
   
   # output
   write_json({
     "tissues": tissues,
-    "anatomical_systems": [v for _, v in anatomical_systems.iteritems()],
-    "organs": [v for _, v in organs.iteritems()],
+    "anatomical_systems": anatomical_systems,
+    "organs": organs,
   })
 
 
