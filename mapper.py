@@ -32,14 +32,12 @@ def parse_tsv(structure_file, tissues, parents, parent_type):
       # add tissue (if not yet present)
       if tissue_id not in tissues.keys():
         tissues[tissue_id] = {
-          "efo_code": tissue_efo,
           "label": tissue_id,
         }
       
       # add parent (if not yet present)
       if parent_id not in parents.keys():
         parents[parent_id] = {
-          "efo_code": parent_efo,
           "label": parent_id,
           "children": []
         }
@@ -48,11 +46,13 @@ def parse_tsv(structure_file, tissues, parents, parent_type):
       if not parent_type in tissues[tissue_id]:
         tissues[tissue_id][parent_type] = []
       
-      # add the tissue to the parent
-      parents[parent_id]["children"].append(tissue_id)
+      # add the tissue to the parent (if not yet present)
+      if (tissue_id not in parents[parent_id]["children"]):
+        parents[parent_id]["children"].append(tissue_id)
 
-      # add the parent to the tissue
-      tissues[tissue_id][parent_type].append(parent_id)
+      # add the parent to the tissue (if not yet present)
+      if (parent_id not in tissues[tissue_id][parent_type]):
+        tissues[tissue_id][parent_type].append(parent_id)
 
 
 def write_json(state):
