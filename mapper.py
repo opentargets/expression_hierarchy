@@ -27,20 +27,20 @@ def parse_tsv(structure_file, tissues, parents, parent_type):
         continue
 
       # parse line
-      parent_id, parent_name, tissue_id, tissue_name = line
+      parent_efo, parent_id, tissue_efo, tissue_id = line
 
       # add tissue (if not yet present)
       if tissue_id not in tissues.keys():
         tissues[tissue_id] = {
-          "key": tissue_id,
-          "label": tissue_name,
+          "efo_code": tissue_efo,
+          "label": tissue_id,
         }
       
       # add parent (if not yet present)
       if parent_id not in parents.keys():
         parents[parent_id] = {
-          "key": parent_id,
-          "label": parent_name,
+          "efo_code": parent_efo,
+          "label": parent_id,
           "children": []
         }
 
