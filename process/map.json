@@ -1,0 +1,736 @@
+{
+  "tissues": {
+    "Brodmann (1909) area 24": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "Brodmann (1909) area 9": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "C1 segment of cervical spinal cord": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "spinal cord"
+      ]
+    },
+    "EBV-transformed lymphocyte": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "organs": [
+        "immune organ"
+      ]
+    },
+    "adipose tissue": {
+      "anatomical_systems": [
+        "integumental system"
+      ],
+      "organs": [
+        "connective tissue"
+      ]
+    },
+    "adrenal gland": {
+      "anatomical_systems": [
+        "endocrine system"
+      ],
+      "organs": [
+        "endocrine gland"
+      ]
+    },
+    "amygdala": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "aorta": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "vasculature"
+      ]
+    },
+    "atrium auricular region": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "heart"
+      ]
+    },
+    "blood": {
+      "anatomical_systems": [
+        "circulatory system",
+        "hemolymphoid system",
+        "hematopoietic system"
+      ],
+      "organs": [
+        "blood"
+      ]
+    },
+    "bone marrow": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "musculoskeletal system",
+        "hematopoietic system",
+        "immune system"
+      ],
+      "organs": [
+        "skeletal element"
+      ]
+    },
+    "brain": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "breast": {
+      "anatomical_systems": [
+        "external soft tissue zone"
+      ],
+      "organs": [
+        "breast"
+      ]
+    },
+    "bronchus": {
+      "anatomical_systems": [
+        "respiratory system"
+      ],
+      "organs": [
+        "tracheobronchial tree"
+      ]
+    },
+    "caudate nucleus": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "cerebellar hemisphere": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "cerebellum": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "cerebral cortex": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "cervix, uterine": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ"
+      ]
+    },
+    "colon": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine",
+        "colon"
+      ]
+    },
+    "coronary artery": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "heart",
+        "vasculature"
+      ]
+    },
+    "cortex of kidney": {
+      "anatomical_systems": [
+        "renal system"
+      ],
+      "organs": [
+        "kidney"
+      ]
+    },
+    "duodenum": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine"
+      ]
+    },
+    "ectocervix": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ",
+        "reproductive structure"
+      ]
+    },
+    "endocervix": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive structure"
+      ]
+    },
+    "endometrium": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "mucosa",
+        "reproductive organ",
+        "reproductive structure"
+      ]
+    },
+    "epididymis": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive structure"
+      ]
+    },
+    "esophagogastric junction": {
+      "anatomical_systems": [
+        "anatomical junction"
+      ],
+      "organs": [
+        "esophagogastric junction"
+      ]
+    },
+    "esophagus": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "esophagus"
+      ]
+    },
+    "esophagus mucosa": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "mucosa",
+        "esophagus"
+      ]
+    },
+    "esophagus muscularis mucosa": {
+      "anatomical_systems": [
+        "digestive system",
+        "musculoskeletal system"
+      ],
+      "organs": [
+        "mucosa",
+        "musculature",
+        "esophagus"
+      ]
+    },
+    "eye": {
+      "anatomical_systems": [
+        "sensory system"
+      ],
+      "organs": [
+        "sense organ"
+      ]
+    },
+    "fallopian tube": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive structure"
+      ]
+    },
+    "frontal lobe": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "gall bladder": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "bladder organ"
+      ]
+    },
+    "greater omentum": {
+      "anatomical_systems": [
+        "anatomical wall"
+      ],
+      "organs": [
+        "peritoneum"
+      ]
+    },
+    "heart": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "heart"
+      ]
+    },
+    "heart left ventricle": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "heart"
+      ]
+    },
+    "heart muscle": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "heart"
+      ]
+    },
+    "hippocampus": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "hippocampus proper": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "hypothalamus": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "kidney": {
+      "anatomical_systems": [
+        "renal system"
+      ],
+      "organs": [
+        "kidney"
+      ]
+    },
+    "leukocyte": {
+      "anatomical_systems": [
+        "hematopoietic system",
+        "immune system"
+      ],
+      "organs": [
+        "immune organ"
+      ]
+    },
+    "liver": {
+      "anatomical_systems": [
+        "endocrine system",
+        "digestive system",
+        "exocrine system"
+      ],
+      "organs": [
+        "liver",
+        "exocrine gland",
+        "endocrine gland"
+      ]
+    },
+    "lower leg skin": {
+      "anatomical_systems": [
+        "integumental system"
+      ],
+      "organs": [
+        "skin of body"
+      ]
+    },
+    "lung": {
+      "anatomical_systems": [
+        "respiratory system"
+      ],
+      "organs": [
+        "lung"
+      ]
+    },
+    "lymph node": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "organs": [
+        "immune organ"
+      ]
+    },
+    "minor salivary gland": {
+      "anatomical_systems": [
+        "digestive system",
+        "exocrine system"
+      ],
+      "organs": [
+        "mucosa",
+        "exocrine gland",
+        "oral gland"
+      ]
+    },
+    "nasopharynx": {
+      "anatomical_systems": [
+        "respiratory system",
+        "digestive system"
+      ],
+      "organs": [
+        "pharynx"
+      ]
+    },
+    "nucleus accumbens": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "oral mucosa": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "mucosa"
+      ]
+    },
+    "ovary": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ"
+      ]
+    },
+    "pancreas": {
+      "anatomical_systems": [
+        "endocrine system"
+      ],
+      "organs": [
+        "pancreas"
+      ]
+    },
+    "parathyroid gland": {
+      "anatomical_systems": [
+        "endocrine system"
+      ],
+      "organs": [
+        "endocrine gland"
+      ]
+    },
+    "pituitary gland": {
+      "anatomical_systems": [
+        "endocrine system",
+        "nervous system"
+      ],
+      "organs": [
+        "brain",
+        "endocrine gland"
+      ]
+    },
+    "placenta": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive structure"
+      ]
+    },
+    "prostate gland": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive structure"
+      ]
+    },
+    "putamen": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "rectum": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine",
+        "rectum"
+      ]
+    },
+    "retina": {
+      "anatomical_systems": [
+        "nervous system",
+        "sensory system"
+      ],
+      "organs": [
+        "sense organ"
+      ]
+    },
+    "saliva-secreting gland": {
+      "anatomical_systems": [
+        "digestive system",
+        "exocrine system"
+      ],
+      "organs": [
+        "exocrine gland",
+        "oral gland"
+      ]
+    },
+    "seminal vesicle": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ",
+        "reproductive structure"
+      ]
+    },
+    "sigmoid colon": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine",
+        "colon"
+      ]
+    },
+    "skeletal muscle tissue": {
+      "anatomical_systems": [
+        "musculoskeletal system"
+      ],
+      "organs": [
+        "musculature"
+      ]
+    },
+    "small intestine": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine"
+      ]
+    },
+    "small intestine Peyer's patch": {
+      "anatomical_systems": [
+        "digestive system",
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "organs": [
+        "intestine",
+        "mucosa"
+      ]
+    },
+    "smooth muscle tissue": {
+      "anatomical_systems": [
+        "musculoskeletal system"
+      ],
+      "organs": [
+        "musculature"
+      ]
+    },
+    "spleen": {
+      "anatomical_systems": [
+        "digestive system",
+        "hemolymphoid system",
+        "hematopoietic system",
+        "immune system"
+      ],
+      "organs": [
+        "spleen",
+        "immune organ"
+      ]
+    },
+    "stomach": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "stomach"
+      ]
+    },
+    "subcutaneous adipose tissue": {
+      "anatomical_systems": [
+        "integumental system"
+      ],
+      "organs": [
+        "connective tissue"
+      ]
+    },
+    "substantia nigra": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "brain"
+      ]
+    },
+    "suprapubic skin": {
+      "anatomical_systems": [
+        "integumental system"
+      ],
+      "organs": [
+        "skin of body"
+      ]
+    },
+    "testis": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ",
+        "reproductive structure"
+      ]
+    },
+    "thyroid gland": {
+      "anatomical_systems": [
+        "endocrine system"
+      ],
+      "organs": [
+        "endocrine gland"
+      ]
+    },
+    "tibial artery": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "organs": [
+        "vasculature"
+      ]
+    },
+    "tibial nerve": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "organs": [
+        "nerve"
+      ]
+    },
+    "tonsil": {
+      "anatomical_systems": [
+        "respiratory system",
+        "digestive system",
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "organs": [
+        "pharynx"
+      ]
+    },
+    "transformed skin fibroblast": {
+      "anatomical_systems": [
+        "connective tissue"
+      ],
+      "organs": [
+        "connective tissue"
+      ]
+    },
+    "transverse colon": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine",
+        "colon"
+      ]
+    },
+    "urinary bladder": {
+      "anatomical_systems": [
+        "renal system"
+      ],
+      "organs": [
+        "bladder organ"
+      ]
+    },
+    "uterus": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ",
+        "reproductive structure"
+      ]
+    },
+    "vagina": {
+      "anatomical_systems": [
+        "reproductive system"
+      ],
+      "organs": [
+        "reproductive organ",
+        "reproductive structure"
+      ]
+    },
+    "vermiform appendix": {
+      "anatomical_systems": [
+        "digestive system"
+      ],
+      "organs": [
+        "intestine",
+        "colon"
+      ]
+    },
+    "zone of skin": {
+      "anatomical_systems": [
+        "integumental system"
+      ],
+      "organs": [
+        "skin of body"
+      ]
+    }
+  }
+}
