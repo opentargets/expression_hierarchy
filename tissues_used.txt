@@ -1,0 +1,74 @@
+adipose tissue
+adrenal gland
+amygdala
+aorta
+atrium auricular region
+blood
+bone marrow
+brain
+breast
+Brodmann (1909) area 24
+Brodmann (1909) area 9
+C1 segment of cervical spinal cord
+caudate nucleus
+cerebellar hemisphere
+cerebellum
+cerebral cortex
+colon
+coronary artery
+cortex of kidney
+duodenum
+EBV-transformed lymphocyte
+ectocervix
+endocervix
+endometrium
+esophagogastric junction
+esophagus
+esophagus mucosa
+esophagus muscularis mucosa
+fallopian tube
+frontal lobe
+gall bladder
+greater omentum
+heart
+heart left ventricle
+hippocampus proper
+hypothalamus
+kidney
+leukocyte
+liver
+lower leg skin
+lung
+lymph node
+minor salivary gland
+nucleus accumbens
+ovary
+pancreas
+pituitary gland
+placenta
+prostate gland
+putamen
+rectum
+saliva-secreting gland
+sigmoid colon
+skeletal muscle tissue
+small intestine
+small intestine Peyer's patch
+smooth muscle tissue
+spleen
+stomach
+subcutaneous adipose tissue
+substantia nigra
+suprapubic skin
+testis
+thyroid gland
+tibial artery
+tibial nerve
+tonsil
+transformed skin fibroblast
+transverse colon
+urinary bladder
+uterus
+vagina
+vermiform appendix
+zone of skin
