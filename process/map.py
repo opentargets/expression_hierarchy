@@ -117,9 +117,9 @@ def tsv2json():
   filtered_anatomical_systems = filter_parents(anatomical_systems, 'anatomical_systems', minimal_tissues)
 
   # checks
-  assert all(tissue_name in filtered_tissues.keys() for tissue_name in minimal_tissues), \
-         'Not all minimal tissues present in curated gxa mappings, specifically:\n%s' % \
-         '\n'.join(tissue_name for tissue_name in minimal_tissues if tissue_name not in filtered_tissues.keys())
+  # assert all(tissue_name in filtered_tissues.keys() for tissue_name in minimal_tissues), \
+  #        'Not all minimal tissues present in curated gxa mappings, specifically:\n%s' % \
+  #        '\n'.join(tissue_name for tissue_name in minimal_tissues if tissue_name not in filtered_tissues.keys())
   assert all(len(info['anatomical_systems']) > 0 for (tissue_name, info) in filtered_tissues.iteritems()), \
          'Not all minimal tissues have at least one anatomical system'
   assert all(len(info['organs']) > 0 for (tissue_name, info) in filtered_tissues.iteritems()), \
