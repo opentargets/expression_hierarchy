@@ -4,12 +4,20 @@ import json
 import urllib
 
 
+ANATOMICAL_SYSTEMS_URL = "https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/anatomical_systems.txt"
+ORGANS_URL = "https://raw.githubusercontent.com/gxa/atlas-metadata/master/out/organs.txt"
 ANATOMICAL_SYSTEMS_FILE = "anatomical_systems.tsv"
 ORGANS_FILE = "organs.tsv"
 CURATION_FILE = "curation.tsv"
 MERGED_TISSUES_FILE = "merged_rna_protein_tissues.txt"
 HIERARCHY_JSON_FILE = "hierarchy.json"
 MAP_JSON_FILE = "map.json"
+
+
+def download_files():
+  print "downloading files"
+  urllib.urlretrieve(ANATOMICAL_SYSTEMS_URL, ANATOMICAL_SYSTEMS_FILE)
+  urllib.urlretrieve(ORGANS_URL, ORGANS_FILE)
 
 
 def parse_tsv(structure_file, tissues, parents, parent_type):
@@ -128,4 +136,7 @@ def tsv2json():
 
 
 if __name__ == '__main__':
+  if not os.path.isfile(ANATOMICAL_SYSTEMS_FILE) or not os.path.isfile(ORGANS_FILE):
+    download_files()
+  
   tsv2json()
