@@ -1,0 +1,104 @@
+adipose tissue
+adrenal gland
+amygdala
+aorta
+appendix
+atrium auricular region
+blood
+bone marrow
+brain
+breast
+Brodmann (1909) area 24
+Brodmann (1909) area 9
+bronchus
+C1 segment of cervical spinal cord
+caudate
+caudate nucleus
+cerebellar hemisphere
+cerebellum
+cerebral cortex
+cervix, uterine
+colon
+coronary artery
+cortex of kidney
+duodenum
+EBV-transformed lymphocyte
+ectocervix
+endocervix
+endometrium
+endometrium 1
+endometrium 2
+epididymis
+esophagogastric junction
+esophagus
+esophagus mucosa
+esophagus muscularis mucosa
+eye
+fallopian tube
+frontal lobe
+gallbladder
+gall bladder
+greater omentum
+hair
+heart
+heart left ventricle
+heart muscle
+hippocampus
+hippocampus proper
+hypothalamus
+kidney
+lactating breast
+leukocyte
+liver
+lower leg skin
+lung
+lymph node
+minor salivary gland
+nasopharynx
+nucleus accumbens
+oral mucosa
+ovary
+pancreas
+parathyroid gland
+pituitary gland
+placenta
+prostate
+prostate gland
+putamen
+rectum
+retina
+salivary gland
+saliva-secreting gland
+seminal vesicle
+sigmoid colon
+skeletal muscle
+skeletal muscle tissue
+skin
+skin 1
+skin 2
+small intestine
+small intestine Peyer's patch
+smooth muscle
+smooth muscle tissue
+soft tissue 1
+soft tissue 2
+spleen
+stomach
+stomach 1
+stomach 2
+subcutaneous adipose tissue
+substantia nigra
+suprapubic skin
+testis
+thyroid gland
+tibial artery
+tibial nerve
+Tissue
+tonsil
+transformed skin fibroblast
+transverse colon
+urinary bladder
+uterus
+vagina
+vermiform appendix
+zone of skin
