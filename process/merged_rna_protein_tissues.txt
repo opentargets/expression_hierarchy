@@ -93,7 +93,6 @@ testis
 thyroid gland
 tibial artery
 tibial nerve
-Tissue
 tonsil
 transformed skin fibroblast
 transverse colon
