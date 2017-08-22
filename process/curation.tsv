@@ -4,10 +4,15 @@ gallbladder	gall bladder
 prostate	prostate gland
 salivary gland	saliva-secreting gland
 skeletal muscle	skeletal muscle tissue
-skin 1	skin
-skin 2	skin
+skin	zone of skin
+skin 1	zone of skin
+skin 2	zone of skin
 smooth muscle	smooth muscle tissue
-soft tissue 1	soft tissue
-soft tissue 2	soft tissue
+soft tissue 1	abdomen
+soft tissue 2	abdomen
 stomach 1	stomach
 stomach 2	stomach
+caudate	caudate-putamen
+hair	strand of hair
+appendix	vermiform appendix
+lactating breast	breast
