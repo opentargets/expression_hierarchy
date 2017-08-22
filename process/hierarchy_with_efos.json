@@ -1,0 +1,553 @@
+{
+  "anatomical_systems": {
+    "anatomical junction": {
+      "children": [
+        "esophagogastric junction"
+      ],
+      "efo_code": "UBERON_0007651",
+      "label": "anatomical junction"
+    },
+    "anatomical wall": {
+      "children": [
+        "greater omentum"
+      ],
+      "efo_code": "UBERON_0000060",
+      "label": "anatomical wall"
+    },
+    "circulatory system": {
+      "children": [
+        "blood",
+        "aorta",
+        "heart",
+        "coronary artery",
+        "heart left ventricle",
+        "heart muscle",
+        "atrium auricular region",
+        "tibial artery"
+      ],
+      "efo_code": "UBERON_0001009",
+      "label": "circulatory system"
+    },
+    "connective tissue": {
+      "children": [
+        "transformed skin fibroblast"
+      ],
+      "efo_code": "UBERON_0002384",
+      "label": "connective tissue"
+    },
+    "digestive system": {
+      "children": [
+        "stomach",
+        "esophagus",
+        "saliva-secreting gland",
+        "rectum",
+        "vermiform appendix",
+        "colon",
+        "transverse colon",
+        "sigmoid colon",
+        "nasopharynx",
+        "minor salivary gland",
+        "spleen",
+        "liver",
+        "small intestine",
+        "gall bladder",
+        "duodenum",
+        "tonsil",
+        "esophagus mucosa",
+        "small intestine Peyer's patch",
+        "oral mucosa",
+        "esophagus muscularis mucosa"
+      ],
+      "efo_code": "UBERON_0001007",
+      "label": "digestive system"
+    },
+    "endocrine system": {
+      "children": [
+        "pituitary gland",
+        "parathyroid gland",
+        "pancreas",
+        "thyroid gland",
+        "liver",
+        "adrenal gland"
+      ],
+      "efo_code": "UBERON_0000949",
+      "label": "endocrine system"
+    },
+    "exocrine system": {
+      "children": [
+        "saliva-secreting gland",
+        "minor salivary gland",
+        "liver"
+      ],
+      "efo_code": "UBERON_0002330",
+      "label": "exocrine system"
+    },
+    "external soft tissue zone": {
+      "children": [
+        "breast"
+      ],
+      "efo_code": "UBERON_0034929",
+      "label": "external soft tissue zone"
+    },
+    "hematopoietic system": {
+      "children": [
+        "leukocyte",
+        "blood",
+        "spleen",
+        "bone marrow"
+      ],
+      "efo_code": "UBERON_0002390",
+      "label": "hematopoietic system"
+    },
+    "hemolymphoid system": {
+      "children": [
+        "EBV-transformed lymphocyte",
+        "lymph node",
+        "blood",
+        "spleen",
+        "bone marrow",
+        "tonsil",
+        "small intestine Peyer's patch"
+      ],
+      "efo_code": "UBERON_0002193",
+      "label": "hemolymphoid system"
+    },
+    "immune system": {
+      "children": [
+        "EBV-transformed lymphocyte",
+        "leukocyte",
+        "lymph node",
+        "spleen",
+        "bone marrow",
+        "tonsil",
+        "small intestine Peyer's patch"
+      ],
+      "efo_code": "UBERON_0002405",
+      "label": "immune system"
+    },
+    "integumental system": {
+      "children": [
+        "zone of skin",
+        "adipose tissue",
+        "strand of hair",
+        "subcutaneous adipose tissue",
+        "lower leg skin",
+        "suprapubic skin"
+      ],
+      "efo_code": "UBERON_0002416",
+      "label": "integumental system"
+    },
+    "lymphoid system": {
+      "children": [
+        "EBV-transformed lymphocyte",
+        "lymph node",
+        "tonsil",
+        "small intestine Peyer's patch"
+      ],
+      "efo_code": "UBERON_0002465",
+      "label": "lymphoid system"
+    },
+    "musculoskeletal system": {
+      "children": [
+        "skeletal muscle tissue",
+        "smooth muscle tissue",
+        "bone marrow",
+        "esophagus muscularis mucosa"
+      ],
+      "efo_code": "UBERON_0002204",
+      "label": "musculoskeletal system"
+    },
+    "nervous system": {
+      "children": [
+        "pituitary gland",
+        "brain",
+        "cerebral cortex",
+        "retina",
+        "tibial nerve",
+        "caudate nucleus",
+        "putamen",
+        "amygdala",
+        "nucleus accumbens",
+        "hypothalamus",
+        "hippocampus proper",
+        "cerebellum",
+        "substantia nigra",
+        "cerebellar hemisphere",
+        "hippocampus",
+        "caudate-putamen",
+        "Brodmann (1909) area 24",
+        "C1 segment of cervical spinal cord",
+        "Brodmann (1909) area 9",
+        "frontal lobe"
+      ],
+      "efo_code": "UBERON_0001016",
+      "label": "nervous system"
+    },
+    "renal system": {
+      "children": [
+        "cortex of kidney",
+        "urinary bladder",
+        "kidney"
+      ],
+      "efo_code": "UBERON_0001008",
+      "label": "renal system"
+    },
+    "reproductive system": {
+      "children": [
+        "cervix, uterine",
+        "endocervix",
+        "testis",
+        "ovary",
+        "uterus",
+        "vagina",
+        "seminal vesicle",
+        "endometrium",
+        "epididymis",
+        "placenta",
+        "prostate gland",
+        "fallopian tube",
+        "ectocervix"
+      ],
+      "efo_code": "UBERON_0000990",
+      "label": "reproductive system"
+    },
+    "respiratory system": {
+      "children": [
+        "nasopharynx",
+        "lung",
+        "bronchus",
+        "tonsil"
+      ],
+      "efo_code": "UBERON_0001004",
+      "label": "respiratory system"
+    },
+    "sensory system": {
+      "children": [
+        "retina",
+        "eye"
+      ],
+      "efo_code": "UBERON_0001032",
+      "label": "sensory system"
+    }
+  },
+  "organs": {
+    "bladder organ": {
+      "children": [
+        "urinary bladder",
+        "gall bladder"
+      ],
+      "efo_code": "UBERON_0018707",
+      "label": "bladder organ"
+    },
+    "blood": {
+      "children": [
+        "blood"
+      ],
+      "efo_code": "UBERON_0000178",
+      "label": "blood"
+    },
+    "brain": {
+      "children": [
+        "pituitary gland",
+        "brain",
+        "cerebral cortex",
+        "caudate nucleus",
+        "putamen",
+        "amygdala",
+        "nucleus accumbens",
+        "hypothalamus",
+        "hippocampus proper",
+        "cerebellum",
+        "substantia nigra",
+        "cerebellar hemisphere",
+        "hippocampus",
+        "caudate-putamen",
+        "Brodmann (1909) area 24",
+        "Brodmann (1909) area 9",
+        "frontal lobe",
+        "hippocampus proper",
+        "hippocampus",
+        "frontal lobe"
+      ],
+      "efo_code": "UBERON_0000955",
+      "label": "brain"
+    },
+    "breast": {
+      "children": [
+        "breast"
+      ],
+      "efo_code": "UBERON_0000310",
+      "label": "breast"
+    },
+    "colon": {
+      "children": [
+        "vermiform appendix",
+        "colon",
+        "transverse colon",
+        "sigmoid colon"
+      ],
+      "efo_code": "UBERON_0001155",
+      "label": "colon"
+    },
+    "connective tissue": {
+      "children": [
+        "transformed skin fibroblast",
+        "adipose tissue",
+        "subcutaneous adipose tissue"
+      ],
+      "efo_code": "UBERON_0002384",
+      "label": "connective tissue"
+    },
+    "endocrine gland": {
+      "children": [
+        "pituitary gland",
+        "parathyroid gland",
+        "thyroid gland",
+        "liver",
+        "adrenal gland"
+      ],
+      "efo_code": "UBERON_0002368",
+      "label": "endocrine gland"
+    },
+    "esophagogastric junction": {
+      "children": [
+        "esophagogastric junction"
+      ],
+      "efo_code": "UBERON_0007650",
+      "label": "esophagogastric junction"
+    },
+    "esophagus": {
+      "children": [
+        "esophagus",
+        "esophagus mucosa",
+        "esophagus muscularis mucosa"
+      ],
+      "efo_code": "UBERON_0001043",
+      "label": "esophagus"
+    },
+    "exocrine gland": {
+      "children": [
+        "saliva-secreting gland",
+        "minor salivary gland",
+        "liver"
+      ],
+      "efo_code": "UBERON_0002365",
+      "label": "exocrine gland"
+    },
+    "heart": {
+      "children": [
+        "heart",
+        "coronary artery",
+        "heart left ventricle",
+        "heart muscle",
+        "atrium auricular region"
+      ],
+      "efo_code": "UBERON_0000948",
+      "label": "heart"
+    },
+    "immune organ": {
+      "children": [
+        "EBV-transformed lymphocyte",
+        "leukocyte",
+        "lymph node",
+        "spleen"
+      ],
+      "efo_code": "UBERON_0005057",
+      "label": "immune organ"
+    },
+    "intestine": {
+      "children": [
+        "rectum",
+        "vermiform appendix",
+        "colon",
+        "transverse colon",
+        "sigmoid colon",
+        "small intestine",
+        "duodenum",
+        "small intestine Peyer's patch"
+      ],
+      "efo_code": "UBERON_0000160",
+      "label": "intestine"
+    },
+    "kidney": {
+      "children": [
+        "cortex of kidney",
+        "kidney"
+      ],
+      "efo_code": "UBERON_0002113",
+      "label": "kidney"
+    },
+    "liver": {
+      "children": [
+        "liver"
+      ],
+      "efo_code": "UBERON_0002107",
+      "label": "liver"
+    },
+    "lung": {
+      "children": [
+        "lung"
+      ],
+      "efo_code": "UBERON_0002048",
+      "label": "lung"
+    },
+    "mucosa": {
+      "children": [
+        "endometrium",
+        "minor salivary gland",
+        "esophagus mucosa",
+        "small intestine Peyer's patch",
+        "oral mucosa",
+        "esophagus muscularis mucosa"
+      ],
+      "efo_code": "UBERON_0000344",
+      "label": "mucosa"
+    },
+    "musculature": {
+      "children": [
+        "skeletal muscle tissue",
+        "smooth muscle tissue",
+        "esophagus muscularis mucosa"
+      ],
+      "efo_code": "UBERON_0001015",
+      "label": "musculature"
+    },
+    "nerve": {
+      "children": [
+        "tibial nerve"
+      ],
+      "efo_code": "UBERON_0001021",
+      "label": "nerve"
+    },
+    "oral gland": {
+      "children": [
+        "saliva-secreting gland",
+        "minor salivary gland"
+      ],
+      "efo_code": "UBERON_0010047",
+      "label": "oral gland"
+    },
+    "pancreas": {
+      "children": [
+        "pancreas"
+      ],
+      "efo_code": "UBERON_0001264",
+      "label": "pancreas"
+    },
+    "peritoneum": {
+      "children": [
+        "greater omentum"
+      ],
+      "efo_code": "UBERON_0002358",
+      "label": "peritoneum"
+    },
+    "pharynx": {
+      "children": [
+        "nasopharynx",
+        "tonsil"
+      ],
+      "efo_code": "UBERON_0006562",
+      "label": "pharynx"
+    },
+    "rectum": {
+      "children": [
+        "rectum"
+      ],
+      "efo_code": "UBERON_0001052",
+      "label": "rectum"
+    },
+    "reproductive organ": {
+      "children": [
+        "cervix, uterine",
+        "testis",
+        "ovary",
+        "uterus",
+        "vagina",
+        "seminal vesicle",
+        "endometrium",
+        "ectocervix"
+      ],
+      "efo_code": "UBERON_0003133",
+      "label": "reproductive organ"
+    },
+    "reproductive structure": {
+      "children": [
+        "endocervix",
+        "testis",
+        "uterus",
+        "vagina",
+        "seminal vesicle",
+        "endometrium",
+        "epididymis",
+        "placenta",
+        "prostate gland",
+        "fallopian tube",
+        "ectocervix"
+      ],
+      "efo_code": "UBERON_0005156",
+      "label": "reproductive structure"
+    },
+    "sense organ": {
+      "children": [
+        "retina",
+        "eye"
+      ],
+      "efo_code": "UBERON_0000020",
+      "label": "sense organ"
+    },
+    "skeletal element": {
+      "children": [
+        "bone marrow"
+      ],
+      "efo_code": "UBERON_0004765",
+      "label": "skeletal element"
+    },
+    "skin of body": {
+      "children": [
+        "zone of skin",
+        "strand of hair",
+        "lower leg skin",
+        "suprapubic skin"
+      ],
+      "efo_code": "UBERON_0002097",
+      "label": "skin of body"
+    },
+    "spinal cord": {
+      "children": [
+        "C1 segment of cervical spinal cord"
+      ],
+      "efo_code": "UBERON_0002240",
+      "label": "spinal cord"
+    },
+    "spleen": {
+      "children": [
+        "spleen"
+      ],
+      "efo_code": "UBERON_0002106",
+      "label": "spleen"
+    },
+    "stomach": {
+      "children": [
+        "stomach"
+      ],
+      "efo_code": "UBERON_0000945",
+      "label": "stomach"
+    },
+    "tracheobronchial tree": {
+      "children": [
+        "bronchus"
+      ],
+      "efo_code": "UBERON_0007196",
+      "label": "tracheobronchial tree"
+    },
+    "vasculature": {
+      "children": [
+        "aorta",
+        "coronary artery",
+        "tibial artery"
+      ],
+      "efo_code": "UBERON_0002049",
+      "label": "vasculature"
+    }
+  }
+}
