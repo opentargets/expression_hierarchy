@@ -1,0 +1,133 @@
+Brodmann (1909) area 24
+Brodmann (1909) area 9
+C1 segment of cervical spinal cord
+CD14-positive, CD16-negative classical monocyte
+CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+CD38-negative naive B cell
+CD4-positive, alpha-beta T cell
+CD4-positive, alpha-beta thymocyte
+CD8-positive, alpha-beta T cell
+CD8-positive, alpha-beta thymocyte
+EBV-transformed lymphocyte
+adipose tissue
+adrenal gland
+alternatively activated macrophage
+amygdala
+aorta
+appendix
+atrium auricular region
+blood
+bone marrow
+brain
+breast
+bronchus
+caudate
+caudate nucleus
+central memory CD8-positive, alpha-beta T cell
+cerebellar hemisphere
+cerebellum
+cerebral cortex
+cervix, uterine
+class switched memory B cell
+colon
+common lymphoid progenitor
+common myeloid progenitor
+conventional dendritic cell
+coronary artery
+cortex of kidney
+cytotoxic CD56-dim natural killer cell
+duodenum
+ectocervix
+effector memory CD4-positive, alpha-beta T cell
+endocervix
+endometrium
+endometrium 1
+endometrium 2
+endothelial cell of umbilical vein (proliferating)
+endothelial cell of umbilical vein (resting)
+epididymis
+erythroblast
+esophagogastric junction
+esophagus
+esophagus mucosa
+esophagus muscularis mucosa
+eye
+fallopian tube
+frontal lobe
+gall bladder
+gallbladder
+granulocyte monocyte progenitor cell
+greater omentum
+hair
+heart
+heart left ventricle
+heart muscle
+hematopoietic multipotent progenitor cell
+hematopoietic stem cell
+hippocampus
+hippocampus proper
+hypothalamus
+inflammatory macrophage
+kidney
+lactating breast
+leukocyte
+liver
+lower leg skin
+lung
+lymph node
+macrophage
+mature eosinophil
+megakaryocyte-erythroid progenitor cell
+memory B cell
+minor salivary gland
+nasopharynx
+neutrophilic metamyelocyte
+nucleus accumbens
+oral mucosa
+ovary
+pancreas
+parathyroid gland
+pituitary gland
+placenta
+prostate
+prostate gland
+putamen
+rectum
+regulatory T cell
+retina
+saliva-secreting gland
+salivary gland
+segmented neutrophil of bone marrow
+seminal vesicle
+sigmoid colon
+skeletal muscle
+skeletal muscle tissue
+skin
+skin 1
+skin 2
+small intestine
+small intestine Peyer's patch
+smooth muscle
+smooth muscle tissue
+soft tissue 1
+soft tissue 2
+spleen
+stomach
+stomach 1
+stomach 2
+subcutaneous adipose tissue
+substantia nigra
+suprapubic skin
+testis
+thyroid gland
+tibial artery
+tibial nerve
+tonsil
+transformed skin fibroblast
+transverse colon
+urinary bladder
+uterus
+vagina
+vermiform appendix
+zone of skin

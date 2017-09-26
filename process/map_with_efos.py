@@ -10,8 +10,11 @@ ANATOMICAL_SYSTEMS_FILE = "anatomical_systems.tsv"
 ORGANS_FILE = "organs.tsv"
 CURATION_FILE = "curation.tsv"
 MERGED_TISSUES_FILE = "merged_rna_protein_tissues.txt"
+BLUEPRINT_MERGED_TISSUES_FILE = "blueprint_merged_rna_protein_tissues.txt"
 HIERARCHY_JSON_FILE = "hierarchy_with_efos.json"
 MAP_JSON_FILE = "map_with_efos.json"
+BLUEPRINT_ORGANS_FILE = "blueprint_to_organs.txt"
+BLUEPRINT_ANATOMICAL_SYSTEMS_FILE = "blueprint_to_anatomical_systems.txt"
 
 
 def download_files():
@@ -62,7 +65,7 @@ def parse_tsv(structure_file, tissues, parents, parent_type):
 
 def parse_txt():
   # merged file contains tissue names from protein and rna
-  with open(MERGED_TISSUES_FILE, 'r') as txt:
+  with open(BLUEPRINT_MERGED_TISSUES_FILE, 'r') as txt:
     tissues = [tissue.strip() for tissue in txt]
   
   # curations map some slightly variant names together
@@ -124,7 +127,9 @@ def tsv2json():
 
   # input
   parse_tsv(ANATOMICAL_SYSTEMS_FILE, tissues, anatomical_systems, 'anatomical_systems')
+  parse_tsv(BLUEPRINT_ANATOMICAL_SYSTEMS_FILE, tissues, anatomical_systems, 'anatomical_systems')
   parse_tsv(ORGANS_FILE, tissues, organs, 'organs')
+  parse_tsv(BLUEPRINT_ORGANS_FILE, tissues, organs, 'organs')
   minimal_tissues = parse_txt()
   
   # filter

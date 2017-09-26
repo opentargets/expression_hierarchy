@@ -30,6 +30,111 @@
         "spinal cord"
       ]
     },
+    "CD14-positive, CD16-negative classical monocyte": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0002057",
+      "label": "CD14-positive, CD16-negative classical monocyte",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte": {
+      "anatomical_systems": [
+        "endocrine system",
+        "hematopoietic system",
+        "hemolymphoid system",
+        "immune system"
+      ],
+      "efo_code": "",
+      "label": "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+      "organs": [
+        "endocrine gland",
+        "immune organ"
+      ]
+    },
+    "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell": {
+      "anatomical_systems": [
+        "hematopoietic system",
+        "hemolymphoid system",
+        "immune system",
+        "musculoskeletal system"
+      ],
+      "efo_code": "CL_0002026",
+      "label": "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+      "organs": [
+        "blood",
+        "immune organ",
+        "skeletal element"
+      ]
+    },
+    "CD38-negative naive B cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0002102",
+      "label": "CD38-negative naive B cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "CD4-positive, alpha-beta T cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000624",
+      "label": "CD4-positive, alpha-beta T cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "CD4-positive, alpha-beta thymocyte": {
+      "anatomical_systems": [
+        "endocrine system",
+        "hematopoietic system",
+        "hemolymphoid system",
+        "immune system"
+      ],
+      "efo_code": "CL_0000810",
+      "label": "CD4-positive, alpha-beta thymocyte",
+      "organs": [
+        "endocrine gland",
+        "immune organ"
+      ]
+    },
+    "CD8-positive, alpha-beta T cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000625",
+      "label": "CD8-positive, alpha-beta T cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "CD8-positive, alpha-beta thymocyte": {
+      "anatomical_systems": [
+        "endocrine system",
+        "hematopoietic system",
+        "hemolymphoid system",
+        "immune system"
+      ],
+      "efo_code": "CL_0000811",
+      "label": "CD8-positive, alpha-beta thymocyte",
+      "organs": [
+        "endocrine gland",
+        "immune organ"
+      ]
+    },
     "EBV-transformed lymphocyte": {
       "anatomical_systems": [
         "hemolymphoid system",
@@ -60,6 +165,18 @@
       "label": "adrenal gland",
       "organs": [
         "endocrine gland"
+      ]
+    },
+    "alternatively activated macrophage": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000890",
+      "label": "alternatively activated macrophage",
+      "organs": [
+        "immune organ",
+        "blood"
       ]
     },
     "amygdala": {
@@ -167,6 +284,18 @@
         "brain"
       ]
     },
+    "central memory CD8-positive, alpha-beta T cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000907",
+      "label": "central memory CD8-positive, alpha-beta T cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "cerebellar hemisphere": {
       "anatomical_systems": [
         "nervous system"
@@ -207,6 +336,18 @@
         "reproductive organ"
       ]
     },
+    "class switched memory B cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000972",
+      "label": "class switched memory B cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "colon": {
       "anatomical_systems": [
         "digestive system"
@@ -216,6 +357,38 @@
       "organs": [
         "intestine",
         "colon"
+      ]
+    },
+    "common lymphoid progenitor": {
+      "anatomical_systems": [
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000051",
+      "label": "common lymphoid progenitor",
+      "organs": [
+        "blood"
+      ]
+    },
+    "common myeloid progenitor": {
+      "anatomical_systems": [
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000049",
+      "label": "common myeloid progenitor",
+      "organs": [
+        "blood"
+      ]
+    },
+    "conventional dendritic cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000990",
+      "label": "conventional dendritic cell",
+      "organs": [
+        "immune organ",
+        "blood"
       ]
     },
     "coronary artery": {
@@ -239,6 +412,18 @@
         "kidney"
       ]
     },
+    "cytotoxic CD56-dim natural killer cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000939",
+      "label": "cytotoxic CD56-dim natural killer cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "duodenum": {
       "anatomical_systems": [
         "digestive system"
@@ -258,6 +443,18 @@
       "organs": [
         "reproductive organ",
         "reproductive structure"
+      ]
+    },
+    "effector memory CD4-positive, alpha-beta T cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000905",
+      "label": "effector memory CD4-positive, alpha-beta T cell",
+      "organs": [
+        "immune organ",
+        "blood"
       ]
     },
     "endocervix": {
@@ -282,6 +479,26 @@
         "reproductive structure"
       ]
     },
+    "endothelial cell of umbilical vein (proliferating)": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "efo_code": "CL_0002618",
+      "label": "endothelial cell of umbilical vein (proliferating)",
+      "organs": [
+        "blood"
+      ]
+    },
+    "endothelial cell of umbilical vein (resting)": {
+      "anatomical_systems": [
+        "circulatory system"
+      ],
+      "efo_code": "CL_0002618",
+      "label": "endothelial cell of umbilical vein (resting)",
+      "organs": [
+        "blood"
+      ]
+    },
     "epididymis": {
       "anatomical_systems": [
         "reproductive system"
@@ -290,6 +507,16 @@
       "label": "epididymis",
       "organs": [
         "reproductive structure"
+      ]
+    },
+    "erythroblast": {
+      "anatomical_systems": [
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000765",
+      "label": "erythroblast",
+      "organs": [
+        "blood"
       ]
     },
     "esophagogastric junction": {
@@ -376,6 +603,21 @@
         "bladder organ"
       ]
     },
+    "granulocyte monocyte progenitor cell": {
+      "anatomical_systems": [
+        "hematopoietic system",
+        "hemolymphoid system",
+        "immune system",
+        "musculoskeletal system"
+      ],
+      "efo_code": "CL_0000557",
+      "label": "granulocyte monocyte progenitor cell",
+      "organs": [
+        "blood",
+        "immune organ",
+        "skeletal element"
+      ]
+    },
     "greater omentum": {
       "anatomical_systems": [
         "anatomical wall"
@@ -416,6 +658,26 @@
         "heart"
       ]
     },
+    "hematopoietic multipotent progenitor cell": {
+      "anatomical_systems": [
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000837",
+      "label": "hematopoietic multipotent progenitor cell",
+      "organs": [
+        "blood"
+      ]
+    },
+    "hematopoietic stem cell": {
+      "anatomical_systems": [
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000037",
+      "label": "hematopoietic stem cell",
+      "organs": [
+        "blood"
+      ]
+    },
     "hippocampus": {
       "anatomical_systems": [
         "nervous system"
@@ -444,6 +706,18 @@
       "label": "hypothalamus",
       "organs": [
         "brain"
+      ]
+    },
+    "inflammatory macrophage": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000863",
+      "label": "inflammatory macrophage",
+      "organs": [
+        "immune organ",
+        "blood"
       ]
     },
     "kidney": {
@@ -513,6 +787,52 @@
         "immune organ"
       ]
     },
+    "macrophage": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000235",
+      "label": "macrophage",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "mature eosinophil": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000041",
+      "label": "mature eosinophil",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "megakaryocyte-erythroid progenitor cell": {
+      "anatomical_systems": [
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000050",
+      "label": "megakaryocyte-erythroid progenitor cell",
+      "organs": [
+        "blood"
+      ]
+    },
+    "memory B cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000787",
+      "label": "memory B cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "minor salivary gland": {
       "anatomical_systems": [
         "digestive system",
@@ -535,6 +855,18 @@
       "label": "nasopharynx",
       "organs": [
         "pharynx"
+      ]
+    },
+    "neutrophilic metamyelocyte": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000582",
+      "label": "neutrophilic metamyelocyte",
+      "organs": [
+        "immune organ",
+        "blood"
       ]
     },
     "nucleus accumbens": {
@@ -640,6 +972,18 @@
         "rectum"
       ]
     },
+    "regulatory T cell": {
+      "anatomical_systems": [
+        "immune system",
+        "hematopoietic system"
+      ],
+      "efo_code": "CL_0000815",
+      "label": "regulatory T cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "retina": {
       "anatomical_systems": [
         "nervous system",
@@ -661,6 +1005,20 @@
       "organs": [
         "exocrine gland",
         "oral gland"
+      ]
+    },
+    "segmented neutrophil of bone marrow": {
+      "anatomical_systems": [
+        "hematopoietic system",
+        "hemolymphoid system",
+        "immune system",
+        "musculoskeletal system"
+      ],
+      "efo_code": "CL_0011114",
+      "label": "segmented neutrophil of bone marrow",
+      "organs": [
+        "skeletal element",
+        "immune organ"
       ]
     },
     "seminal vesicle": {

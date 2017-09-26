@@ -23,7 +23,9 @@
         "heart left ventricle",
         "heart muscle",
         "atrium auricular region",
-        "tibial artery"
+        "tibial artery",
+        "endothelial cell of umbilical vein (proliferating)",
+        "endothelial cell of umbilical vein (resting)"
       ],
       "efo_code": "UBERON_0001009",
       "label": "circulatory system"
@@ -68,7 +70,10 @@
         "pancreas",
         "thyroid gland",
         "liver",
-        "adrenal gland"
+        "adrenal gland",
+        "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+        "CD4-positive, alpha-beta thymocyte",
+        "CD8-positive, alpha-beta thymocyte"
       ],
       "efo_code": "UBERON_0000949",
       "label": "endocrine system"
@@ -94,7 +99,35 @@
         "leukocyte",
         "blood",
         "spleen",
-        "bone marrow"
+        "bone marrow",
+        "alternatively activated macrophage",
+        "CD14-positive, CD16-negative classical monocyte",
+        "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "CD38-negative naive B cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta thymocyte",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta thymocyte",
+        "central memory CD8-positive, alpha-beta T cell",
+        "class switched memory B cell",
+        "conventional dendritic cell",
+        "cytotoxic CD56-dim natural killer cell",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "erythroblast",
+        "inflammatory macrophage",
+        "macrophage",
+        "mature eosinophil",
+        "memory B cell",
+        "neutrophilic metamyelocyte",
+        "regulatory T cell",
+        "segmented neutrophil of bone marrow",
+        "common lymphoid progenitor",
+        "common myeloid progenitor",
+        "granulocyte monocyte progenitor cell",
+        "hematopoietic multipotent progenitor cell",
+        "hematopoietic stem cell",
+        "megakaryocyte-erythroid progenitor cell"
       ],
       "efo_code": "UBERON_0002390",
       "label": "hematopoietic system"
@@ -107,7 +140,13 @@
         "spleen",
         "bone marrow",
         "tonsil",
-        "small intestine Peyer's patch"
+        "small intestine Peyer's patch",
+        "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "CD4-positive, alpha-beta thymocyte",
+        "CD8-positive, alpha-beta thymocyte",
+        "segmented neutrophil of bone marrow",
+        "granulocyte monocyte progenitor cell"
       ],
       "efo_code": "UBERON_0002193",
       "label": "hemolymphoid system"
@@ -120,7 +159,29 @@
         "spleen",
         "bone marrow",
         "tonsil",
-        "small intestine Peyer's patch"
+        "small intestine Peyer's patch",
+        "alternatively activated macrophage",
+        "CD14-positive, CD16-negative classical monocyte",
+        "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "CD38-negative naive B cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta thymocyte",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta thymocyte",
+        "central memory CD8-positive, alpha-beta T cell",
+        "class switched memory B cell",
+        "conventional dendritic cell",
+        "cytotoxic CD56-dim natural killer cell",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "inflammatory macrophage",
+        "macrophage",
+        "mature eosinophil",
+        "memory B cell",
+        "neutrophilic metamyelocyte",
+        "regulatory T cell",
+        "segmented neutrophil of bone marrow",
+        "granulocyte monocyte progenitor cell"
       ],
       "efo_code": "UBERON_0002405",
       "label": "immune system"
@@ -152,7 +213,10 @@
         "skeletal muscle tissue",
         "smooth muscle tissue",
         "bone marrow",
-        "esophagus muscularis mucosa"
+        "esophagus muscularis mucosa",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "segmented neutrophil of bone marrow",
+        "granulocyte monocyte progenitor cell"
       ],
       "efo_code": "UBERON_0002204",
       "label": "musculoskeletal system"
@@ -241,7 +305,33 @@
     },
     "blood": {
       "children": [
-        "blood"
+        "blood",
+        "alternatively activated macrophage",
+        "CD14-positive, CD16-negative classical monocyte",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "CD38-negative naive B cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta T cell",
+        "central memory CD8-positive, alpha-beta T cell",
+        "class switched memory B cell",
+        "conventional dendritic cell",
+        "cytotoxic CD56-dim natural killer cell",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "endothelial cell of umbilical vein (proliferating)",
+        "endothelial cell of umbilical vein (resting)",
+        "erythroblast",
+        "inflammatory macrophage",
+        "macrophage",
+        "mature eosinophil",
+        "memory B cell",
+        "neutrophilic metamyelocyte",
+        "regulatory T cell",
+        "common lymphoid progenitor",
+        "common myeloid progenitor",
+        "granulocyte monocyte progenitor cell",
+        "hematopoietic multipotent progenitor cell",
+        "hematopoietic stem cell",
+        "megakaryocyte-erythroid progenitor cell"
       ],
       "efo_code": "UBERON_0000178",
       "label": "blood"
@@ -304,7 +394,10 @@
         "parathyroid gland",
         "thyroid gland",
         "liver",
-        "adrenal gland"
+        "adrenal gland",
+        "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+        "CD4-positive, alpha-beta thymocyte",
+        "CD8-positive, alpha-beta thymocyte"
       ],
       "efo_code": "UBERON_0002368",
       "label": "endocrine gland"
@@ -350,7 +443,29 @@
         "EBV-transformed lymphocyte",
         "leukocyte",
         "lymph node",
-        "spleen"
+        "spleen",
+        "alternatively activated macrophage",
+        "CD14-positive, CD16-negative classical monocyte",
+        "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "CD38-negative naive B cell",
+        "CD4-positive, alpha-beta T cell",
+        "CD4-positive, alpha-beta thymocyte",
+        "CD8-positive, alpha-beta T cell",
+        "CD8-positive, alpha-beta thymocyte",
+        "central memory CD8-positive, alpha-beta T cell",
+        "class switched memory B cell",
+        "conventional dendritic cell",
+        "cytotoxic CD56-dim natural killer cell",
+        "effector memory CD4-positive, alpha-beta T cell",
+        "inflammatory macrophage",
+        "macrophage",
+        "mature eosinophil",
+        "memory B cell",
+        "neutrophilic metamyelocyte",
+        "regulatory T cell",
+        "segmented neutrophil of bone marrow",
+        "granulocyte monocyte progenitor cell"
       ],
       "efo_code": "UBERON_0005057",
       "label": "immune organ"
@@ -497,7 +612,10 @@
     },
     "skeletal element": {
       "children": [
-        "bone marrow"
+        "bone marrow",
+        "CD34-negative, CD41-positive, CD42-positive megakaryocyte cell",
+        "segmented neutrophil of bone marrow",
+        "granulocyte monocyte progenitor cell"
       ],
       "efo_code": "UBERON_0004765",
       "label": "skeletal element"
