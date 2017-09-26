@@ -90,6 +90,7 @@ pancreas
 parathyroid gland
 pituitary gland
 placenta
+prefrontal cortex
 prostate
 prostate gland
 putamen
@@ -119,6 +120,7 @@ stomach 2
 subcutaneous adipose tissue
 substantia nigra
 suprapubic skin
+temporal lobe
 testis
 thyroid gland
 tibial artery

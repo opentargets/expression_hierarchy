@@ -941,6 +941,16 @@
         "reproductive structure"
       ]
     },
+    "prefrontal cortex": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "efo_code": "UBERON_0000451",
+      "label": "prefrontal cortex",
+      "organs": [
+        "brain"
+      ]
+    },
     "prostate gland": {
       "anatomical_systems": [
         "reproductive system"
@@ -1149,6 +1159,16 @@
       "label": "suprapubic skin",
       "organs": [
         "skin of body"
+      ]
+    },
+    "temporal lobe": {
+      "anatomical_systems": [
+        "nervous system"
+      ],
+      "efo_code": "UBERON_0001871",
+      "label": "temporal lobe",
+      "organs": [
+        "brain"
       ]
     },
     "testis": {

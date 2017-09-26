@@ -224,10 +224,12 @@
     "nervous system": {
       "children": [
         "pituitary gland",
+        "prefrontal cortex",
         "brain",
         "cerebral cortex",
         "retina",
         "tibial nerve",
+        "temporal lobe",
         "caudate nucleus",
         "putamen",
         "amygdala",
@@ -339,8 +341,10 @@
     "brain": {
       "children": [
         "pituitary gland",
+        "prefrontal cortex",
         "brain",
         "cerebral cortex",
+        "temporal lobe",
         "caudate nucleus",
         "putamen",
         "amygdala",
@@ -355,6 +359,7 @@
         "Brodmann (1909) area 24",
         "Brodmann (1909) area 9",
         "frontal lobe",
+        "temporal lobe",
         "hippocampus proper",
         "hippocampus",
         "frontal lobe"
