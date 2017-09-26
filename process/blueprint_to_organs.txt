@@ -1,0 +1,55 @@
+#organ id	organ name 	cell id 	cell name 
+UBERON_0005057	immune organ	CL_0000890	alternatively activated macrophage
+UBERON_0000178	blood	CL_0000890	alternatively activated macrophage
+UBERON_0005057	immune organ	CL_0002057	CD14-positive, CD16-negative classical monocyte
+UBERON_0000178	blood	CL_0002057	CD14-positive, CD16-negative classical monocyte
+UBERON_0002368	endocrine gland		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0005057	immune organ		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0000178	blood	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0005057	immune organ	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0004765	skeletal element	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
+UBERON_0005057	immune organ	CL_0002102	CD38-negative naive B cell
+UBERON_0000178	blood	CL_0002102	CD38-negative naive B cell
+UBERON_0005057	immune organ	CL_0000624	CD4-positive, alpha-beta T cell
+UBERON_0000178	blood	CL_0000624	CD4-positive, alpha-beta T cell
+UBERON_0002368	endocrine gland	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0005057	immune organ	CL_0000810	CD4-positive, alpha-beta thymocyte
+UBERON_0005057	immune organ	CL_0000625	CD8-positive, alpha-beta T cell
+UBERON_0000178	blood	CL_0000625	CD8-positive, alpha-beta T cell
+UBERON_0002368	endocrine gland	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0005057	immune organ	CL_0000811	CD8-positive, alpha-beta thymocyte
+UBERON_0005057	immune organ	CL_0000907	central memory CD8-positive, alpha-beta T cell
+UBERON_0000178	blood	CL_0000907	central memory CD8-positive, alpha-beta T cell
+UBERON_0005057	immune organ	CL_0000972	class switched memory B cell
+UBERON_0000178	blood	CL_0000972	class switched memory B cell
+UBERON_0005057	immune organ	CL_0000990	conventional dendritic cell
+UBERON_0000178	blood	CL_0000990	conventional dendritic cell
+UBERON_0005057	immune organ	CL_0000939	cytotoxic CD56-dim natural killer cell
+UBERON_0000178	blood	CL_0000939	cytotoxic CD56-dim natural killer cell
+UBERON_0005057	immune organ	CL_0000905	effector memory CD4-positive, alpha-beta T cell
+UBERON_0000178	blood	CL_0000905	effector memory CD4-positive, alpha-beta T cell
+UBERON_0000178	blood	CL_0002618	endothelial cell of umbilical vein (proliferating)
+UBERON_0000178	blood	CL_0002618	endothelial cell of umbilical vein (resting)
+UBERON_0000178	blood	CL_0000765	erythroblast
+UBERON_0005057	immune organ	CL_0000863	inflammatory macrophage
+UBERON_0000178	blood	CL_0000863	inflammatory macrophage
+UBERON_0005057	immune organ	CL_0000235	macrophage
+UBERON_0000178	blood	CL_0000235	macrophage
+UBERON_0005057	immune organ	CL_0000041	mature eosinophil
+UBERON_0000178	blood	CL_0000041	mature eosinophil
+UBERON_0005057	immune organ	CL_0000787	memory B cell
+UBERON_0000178	blood	CL_0000787	memory B cell
+UBERON_0005057	immune organ	CL_0000582	neutrophilic metamyelocyte
+UBERON_0000178	blood	CL_0000582	neutrophilic metamyelocyte
+UBERON_0005057	immune organ	CL_0000815	regulatory T cell
+UBERON_0000178	blood	CL_0000815	regulatory T cell
+UBERON_0004765	skeletal element	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0005057	immune organ	CL_0011114	segmented neutrophil of bone marrow
+UBERON_0000178	blood	CL_0000051	common lymphoid progenitor
+UBERON_0000178	blood	CL_0000049	common myeloid progenitor
+UBERON_0000178	blood	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0005057	immune organ	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0004765	skeletal element	CL_0000557	granulocyte monocyte progenitor cell
+UBERON_0000178	blood	CL_0000837	hematopoietic multipotent progenitor cell
+UBERON_0000178	blood	CL_0000037	hematopoietic stem cell
+UBERON_0000178	blood	CL_0000050	megakaryocyte-erythroid progenitor cell
