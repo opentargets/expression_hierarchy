@@ -3,8 +3,8 @@ UBERON_0005057	immune organ	CL_0000890	alternatively activated macrophage
 UBERON_0000178	blood	CL_0000890	alternatively activated macrophage
 UBERON_0005057	immune organ	CL_0002057	CD14-positive, CD16-negative classical monocyte
 UBERON_0000178	blood	CL_0002057	CD14-positive, CD16-negative classical monocyte
-UBERON_0002368	endocrine gland		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
-UBERON_0005057	immune organ		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0002368	endocrine gland	NOT_AN_UBERON_1	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0005057	immune organ	NOT_AN_UBERON_1	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
 UBERON_0000178	blood	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
 UBERON_0005057	immune organ	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
 UBERON_0004765	skeletal element	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell

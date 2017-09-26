@@ -3,10 +3,10 @@ UBERON_0002405	immune system	CL_0000890	alternatively activated macrophage
 UBERON_0002390	hematopoietic system	CL_0000890	alternatively activated macrophage
 UBERON_0002405	immune system	CL_0002057	CD14-positive, CD16-negative classical monocyte
 UBERON_0002390	hematopoietic system	CL_0002057	CD14-positive, CD16-negative classical monocyte
-UBERON_0000949	endocrine system		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
-UBERON_0002390	hematopoietic system		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
-UBERON_0002193	hemolymphoid system		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
-UBERON_0002405	immune system		CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0000949	endocrine system	NOT_AN_UBERON_1	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0002390	hematopoietic system	NOT_AN_UBERON_1	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0002193	hemolymphoid system	NOT_AN_UBERON_1	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
+UBERON_0002405	immune system	NOT_AN_UBERON_1	CD3-positive, CD4-positive, CD8-positive, double positive thymocyte
 UBERON_0002390	hematopoietic system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
 UBERON_0002193	hemolymphoid system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell
 UBERON_0002405	immune system	CL_0002026	CD34-negative, CD41-positive, CD42-positive megakaryocyte cell

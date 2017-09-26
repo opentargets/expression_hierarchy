@@ -49,7 +49,7 @@
         "hemolymphoid system",
         "immune system"
       ],
-      "efo_code": "",
+      "efo_code": "NOT_AN_UBERON_1",
       "label": "CD3-positive, CD4-positive, CD8-positive, double positive thymocyte",
       "organs": [
         "endocrine gland",
