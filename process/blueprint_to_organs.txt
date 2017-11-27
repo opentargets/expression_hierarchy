@@ -53,3 +53,11 @@ UBERON_0004765	skeletal element	CL_0000557	granulocyte monocyte progenitor cell
 UBERON_0000178	blood	CL_0000837	hematopoietic multipotent progenitor cell
 UBERON_0000178	blood	CL_0000037	hematopoietic stem cell
 UBERON_0000178	blood	CL_0000050	megakaryocyte-erythroid progenitor cell
+UBERON_0005057	immune organ	NOT_AN_UBERON_2	central memory CD4-positive, alpha-beta T cell
+UBERON_0000178	blood	NOT_AN_UBERON_2	central memory CD4-positive, alpha-beta T cell
+UBERON_0005057	immune organ	NOT_AN_UBERON_3	effector memory CD8-positive, alpha-beta T cell
+UBERON_0000178	blood	NOT_AN_UBERON_3	effector memory CD8-positive, alpha-beta T cell
+UBERON_0005057	immune organ	NOT_AN_UBERON_4	mature neutrophil
+UBERON_0000178	blood	NOT_AN_UBERON_4	mature neutrophil
+UBERON_0005057	immune organ	NOT_AN_UBERON_5	plasma cell
+UBERON_0000178	blood	NOT_AN_UBERON_5	plasma cell

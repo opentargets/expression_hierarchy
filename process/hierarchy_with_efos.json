@@ -146,7 +146,11 @@
         "CD4-positive, alpha-beta thymocyte",
         "CD8-positive, alpha-beta thymocyte",
         "segmented neutrophil of bone marrow",
-        "granulocyte monocyte progenitor cell"
+        "granulocyte monocyte progenitor cell",
+        "central memory CD4-positive, alpha-beta T cell",
+        "effector memory CD8-positive, alpha-beta T cell",
+        "mature neutrophil",
+        "plasma cell"
       ],
       "efo_code": "UBERON_0002193",
       "label": "hemolymphoid system"
@@ -181,7 +185,11 @@
         "neutrophilic metamyelocyte",
         "regulatory T cell",
         "segmented neutrophil of bone marrow",
-        "granulocyte monocyte progenitor cell"
+        "granulocyte monocyte progenitor cell",
+        "central memory CD4-positive, alpha-beta T cell",
+        "effector memory CD8-positive, alpha-beta T cell",
+        "mature neutrophil",
+        "plasma cell"
       ],
       "efo_code": "UBERON_0002405",
       "label": "immune system"
@@ -203,7 +211,11 @@
         "EBV-transformed lymphocyte",
         "lymph node",
         "tonsil",
-        "small intestine Peyer's patch"
+        "small intestine Peyer's patch",
+        "central memory CD4-positive, alpha-beta T cell",
+        "effector memory CD8-positive, alpha-beta T cell",
+        "mature neutrophil",
+        "plasma cell"
       ],
       "efo_code": "UBERON_0002465",
       "label": "lymphoid system"
@@ -333,7 +345,11 @@
         "granulocyte monocyte progenitor cell",
         "hematopoietic multipotent progenitor cell",
         "hematopoietic stem cell",
-        "megakaryocyte-erythroid progenitor cell"
+        "megakaryocyte-erythroid progenitor cell",
+        "central memory CD4-positive, alpha-beta T cell",
+        "effector memory CD8-positive, alpha-beta T cell",
+        "mature neutrophil",
+        "plasma cell"
       ],
       "efo_code": "UBERON_0000178",
       "label": "blood"
@@ -470,7 +486,11 @@
         "neutrophilic metamyelocyte",
         "regulatory T cell",
         "segmented neutrophil of bone marrow",
-        "granulocyte monocyte progenitor cell"
+        "granulocyte monocyte progenitor cell",
+        "central memory CD4-positive, alpha-beta T cell",
+        "effector memory CD8-positive, alpha-beta T cell",
+        "mature neutrophil",
+        "plasma cell"
       ],
       "efo_code": "UBERON_0005057",
       "label": "immune organ"

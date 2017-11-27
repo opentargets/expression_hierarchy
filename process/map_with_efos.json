@@ -284,6 +284,19 @@
         "brain"
       ]
     },
+    "central memory CD4-positive, alpha-beta T cell": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "efo_code": "NOT_AN_UBERON_2",
+      "label": "central memory CD4-positive, alpha-beta T cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "central memory CD8-positive, alpha-beta T cell": {
       "anatomical_systems": [
         "immune system",
@@ -452,6 +465,19 @@
       ],
       "efo_code": "CL_0000905",
       "label": "effector memory CD4-positive, alpha-beta T cell",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
+    "effector memory CD8-positive, alpha-beta T cell": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "efo_code": "NOT_AN_UBERON_3",
+      "label": "effector memory CD8-positive, alpha-beta T cell",
       "organs": [
         "immune organ",
         "blood"
@@ -811,6 +837,19 @@
         "blood"
       ]
     },
+    "mature neutrophil": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "efo_code": "NOT_AN_UBERON_4",
+      "label": "mature neutrophil",
+      "organs": [
+        "immune organ",
+        "blood"
+      ]
+    },
     "megakaryocyte-erythroid progenitor cell": {
       "anatomical_systems": [
         "hematopoietic system"
@@ -939,6 +978,19 @@
       "label": "placenta",
       "organs": [
         "reproductive structure"
+      ]
+    },
+    "plasma cell": {
+      "anatomical_systems": [
+        "hemolymphoid system",
+        "immune system",
+        "lymphoid system"
+      ],
+      "efo_code": "NOT_AN_UBERON_5",
+      "label": "plasma cell",
+      "organs": [
+        "immune organ",
+        "blood"
       ]
     },
     "prefrontal cortex": {

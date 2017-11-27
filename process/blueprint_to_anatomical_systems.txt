@@ -63,3 +63,16 @@ UBERON_0002204	musculoskeletal system	CL_0000557	granulocyte monocyte progenitor
 UBERON_0002390	hematopoietic system	CL_0000837	hematopoietic multipotent progenitor cell
 UBERON_0002390	hematopoietic system	CL_0000037	hematopoietic stem cell
 UBERON_0002390	hematopoietic system	CL_0000050	megakaryocyte-erythroid progenitor cell
+UBERON_0002193	hemolymphoid system	NOT_AN_UBERON_2	central memory CD4-positive, alpha-beta T cell
+UBERON_0002405	immune system	NOT_AN_UBERON_2	central memory CD4-positive, alpha-beta T cell
+UBERON_0002465	lymphoid system	NOT_AN_UBERON_2	central memory CD4-positive, alpha-beta T cell
+UBERON_0002193	hemolymphoid system	NOT_AN_UBERON_3	effector memory CD8-positive, alpha-beta T cell
+UBERON_0002405	immune system	NOT_AN_UBERON_3	effector memory CD8-positive, alpha-beta T cell
+UBERON_0002465	lymphoid system	NOT_AN_UBERON_3	effector memory CD8-positive, alpha-beta T cell
+UBERON_0002193	hemolymphoid system	NOT_AN_UBERON_4	mature neutrophil
+UBERON_0002405	immune system	NOT_AN_UBERON_4	mature neutrophil
+UBERON_0002465	lymphoid system	NOT_AN_UBERON_4	mature neutrophil
+UBERON_0002390	hematopoietic	system	NOT_AN_UBERON_4 mature neutrophil
+UBERON_0002193	hemolymphoid system	NOT_AN_UBERON_5	plasma cell
+UBERON_0002405	immune system	NOT_AN_UBERON_5	plasma cell
+UBERON_0002465	lymphoid system	NOT_AN_UBERON_5	plasma cell
